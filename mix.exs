@@ -2,7 +2,7 @@ defmodule Template.Mixfile do
   use Mix.Project
 
   @name    :gen_template_template
-  @version "0.1.0"
+  @version "0.1.5"
   
   @deps [
     { :mix_templates,  ">0.0.0",  app: false },
