@@ -9,7 +9,7 @@ defmodule <%= @project_name_camel_case %>.Mixfile do
     { :ex_doc,         ">0.0.0",  only: [:dev, :test] },
   ]
 
-  @maintainers ["Your Name <youe@example.com>"]
+  @maintainers ["Your Name <your@example.com>"]
   @github      "https://github.com/•••/#{@name}"
 
   @description """
